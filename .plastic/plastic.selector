@@ -1,0 +1,4 @@
+repository "Gittanon_Lab11_2DPhysics 2026-04-26_13-27-17/Gittanon-gi204-lab11-physics2d@18968004740031@cloud"
+  path "/"
+    br "/main"
+    co "/main"
